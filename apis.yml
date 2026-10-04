@@ -44,7 +44,7 @@ tags:
 - Construction
 - Big Data
 - Data
-- Real-Estate
+- Real Estate
 - Analytics
 - CRM
 - South Korea
@@ -57,6 +57,7 @@ tags_raw:
 - Analytics
 - CRM
 - South Korea
+- Real-Estate
 image: https://sankun.com/favicon.ico
 apis:
 - name: Sankun API
