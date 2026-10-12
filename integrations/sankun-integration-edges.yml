@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/sankun/integrations
+- https://n8n.io/integrations/sankun/
+- https://composio.dev/toolkits/sankun
+- https://monid.ai/tools/sankun
+checked:
+- https://composio.dev/toolkits/sankun
+- https://monid.ai/tools/sankun
+- https://n8n.io/integrations/sankun/
+- https://zapier.com/apps/sankun/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
